@@ -1,2 +1,2 @@
-# Proojects
+# Projects
 cafe
